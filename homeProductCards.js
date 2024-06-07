@@ -1,12 +1,9 @@
-// import {
-//     addToCart
-// } from "./addToCart";
 import {
     addToCart
-} from "./addToCart";
+} from "./addToCart.js";
 import {
     homeQuantityToggle
-} from "./homeQuantityToggle";
+} from "./homeQuantityToggle.js";
 
 const productContainer = document.querySelector("#productContainer");
 const productTemplate = document.querySelector("#productTemplate");
@@ -56,11 +53,6 @@ export const showProductContainer = (products) => {
                 addToCart(event, id, stock);
             });
 
-        // productClone
-        //     .querySelector('add-to-cart-button')
-        //     .addEventListener("click", (event) => {
-        //         addToCart(event, id, stock);
-        //     });
 
         productContainer.append(productClone);
     });

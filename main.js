@@ -1,5 +1,5 @@
-import './style.css';
-import products from './API/products.json';
+import "./style.css";
+import products from "./API/products.json";
 import {
     showProductContainer
 } from "./homeProductCards.js";
