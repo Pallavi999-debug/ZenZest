@@ -5,8 +5,8 @@
 
 <div align="center">
   
- <img alt="Demo" src="public/images/ZenZest1.PNG" /></br>
- <img alt="Demo" src="public/images/ZenZest2.PNG" /></br>
+ <img alt="Demo" src="public/images/ZenZest1.PNG" /></br></br>
+ <img alt="Demo" src="public/images/ZenZest2.PNG" /></br></br>
  <img alt="Demo" src="public/images/ZenZest3.PNG" />
 
 </div>
