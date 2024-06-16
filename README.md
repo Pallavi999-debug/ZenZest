@@ -1,5 +1,5 @@
 <h2 align="center">
-  Gemini Website <br/>
+  ZenZest Website <br/>
   <a href="https://zenzestecomm.vercel.app/" target="">ZenZest</a>
 </h2>
 
